@@ -1,1 +1,2 @@
-__all__ = ["mandle"]
+__all__ = ["mandel"]
+
